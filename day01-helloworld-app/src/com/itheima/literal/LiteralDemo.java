@@ -4,8 +4,8 @@ public class LiteralDemo {
     public static void main(String[] args) {
         printLiteral();
     }
-}
-    public static void printLiteral(String[] args) {
+
+    public static void printLiteral() {
         System.out.println(true);
         System.out.println(false);
         System.out.println(100);
@@ -17,5 +17,5 @@ public class LiteralDemo {
         System.out.println('\n');
         System.out.println('\t');
     }
-
+}
 
