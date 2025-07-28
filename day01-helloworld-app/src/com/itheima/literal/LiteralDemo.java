@@ -6,16 +6,23 @@ public class LiteralDemo {
     }
 
     public static void printLiteral() {
+        //请帮我书写常见自变量
+        //1、布尔型
         System.out.println(true);
         System.out.println(false);
-        System.out.println(100);
-        System.out.println(-100);
-        System.out.println(3.14);
-        System.out.println(-3.14);
+        //2、数字型
+        System.out.println(10);
+        System.out.println(-10);
+        System.out.println(10.5);
+        System.out.println(-10.5);
+        //3、字符型
         System.out.println('a');
         System.out.println('中');
-        System.out.println('\n');
-        System.out.println('\t');
+        //4、字符串型
+        System.out.println("hello world");
+        //5、特殊字符
+        System.out.println("hello \nworld");
+        System.out.println("hello \tworld");
     }
 }
 
