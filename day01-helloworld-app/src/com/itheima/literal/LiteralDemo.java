@@ -6,7 +6,7 @@ public class LiteralDemo {
     }
 
     public static void printLiteral() {
-        //请帮我书写常见自变量
+        //请帮我书写常见字变量
         //1、布尔型
         System.out.println(true);
         System.out.println(false);
