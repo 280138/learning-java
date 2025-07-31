@@ -1,4 +1,4 @@
-package com.itheima.variable;
+package com.itheima.method.variable;
 //目标：认识变量
 public class VariableDemo1 {
     public static void main(String[] args) {

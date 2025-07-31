@@ -1,4 +1,4 @@
-package com.itheima;
+package com.itheima.method;
 
 public class MethodDemo1 {
     //目标:掌握方法的定义和调用

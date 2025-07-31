@@ -1,4 +1,4 @@
-package com.itheima.variable;
+package com.itheima.method.variable;
 
 import com.sun.org.apache.xpath.internal.objects.XString;
 

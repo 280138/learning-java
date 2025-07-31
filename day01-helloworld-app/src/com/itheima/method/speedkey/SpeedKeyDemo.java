@@ -1,4 +1,4 @@
-package com.itheima.speedkey;
+package com.itheima.method.speedkey;
 
 public class SpeedKeyDemo {
     public static void main(String[] args) {

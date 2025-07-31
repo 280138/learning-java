@@ -1,4 +1,4 @@
-package com.itheima.literal;
+package com.itheima.method.literal;
 //目标：掌握常见自变量书写格式
 public class LiteralDemo {
     public static void main(String[] args) {
