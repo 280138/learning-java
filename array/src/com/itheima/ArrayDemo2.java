@@ -19,9 +19,20 @@ public class ArrayDemo2 {
         }
 
         double sum = 0;
+        double min = grades[0];
+        double max = grades[0];
         for (int i=0;i<grades.length;i++){
             sum += grades[i];
+
+            if(grades[i] < min){
+                min = grades[i];
+            }
+            if(grades[i] > max){
+                max = grades[i];
+            }
         }
         System.out.println("平均分是" + sum/grades.length);
+        System.out.println("最小分是" + min);
+        System.out.println("最大分是" + max);
     }
 }
