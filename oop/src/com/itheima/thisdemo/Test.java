@@ -1,4 +1,4 @@
-package thisdemo;
+package com.itheima.thisdemo;
 
 //import com.itheima.constructor.Student;
 
@@ -7,7 +7,7 @@ public class Test {
         //认识this关键字
         Student s1 = new Student();
         s1.name = "张三";
-        s1.print();//哪个对象调用这个方法this就拿到哪个对象
+        s1.print();//哪个对象调用这个方法,this就指向哪个对象
         System.out.println(s1);
 
         System.out.println();
