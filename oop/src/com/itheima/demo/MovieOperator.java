@@ -22,6 +22,7 @@ public class MovieOperator {
         System.out.println("请输入要查询的ID：");
         Scanner sc = new Scanner(System.in);
         int id = sc.nextInt();
+        //用循环来遍历数组
         for (int i = 0; i < movies.length; i++) {
             if (id == movies[i].getId()) {
                 Movie m = movies[i];

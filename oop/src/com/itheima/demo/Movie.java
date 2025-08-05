@@ -6,6 +6,7 @@ public class Movie {
     private String director;
     private double price;
 
+    //设置构造器
     public Movie() {
     }
 
