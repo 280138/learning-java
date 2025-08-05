@@ -37,6 +37,7 @@ public class VariableDemo1 {
         System.out.println(ch + 1);
         char ch2 = 'A';//A = 65
         System.out.println(ch2 + 1);
+        System.out.println(ch);
 
         //二进制，八进制，十二进制
         System.out.println("=============");
