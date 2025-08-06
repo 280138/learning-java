@@ -3,7 +3,7 @@ package com.itheima.extends5override;
 public class Test2 {
 
     public static void main(String[] args) {
-        //目标：重写Object类中的toString()方法
+        //目标：重写父类Object类中的toString()方法
         Student s = new Student();
         s.setName("张三");
         s.setAge(18);
