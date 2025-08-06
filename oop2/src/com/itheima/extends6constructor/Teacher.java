@@ -8,6 +8,7 @@ public class Teacher extends People {
         //super：子类构造器调用父类构造器
         // 把子类继承父类这部分数据也完成初始化赋值
         super(name,sex);
+//        this.setName(name);  this调用兄弟构造器？？
         this.skill = skill;
     }
 
