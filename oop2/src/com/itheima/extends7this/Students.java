@@ -9,6 +9,7 @@ public class Students {
     public Students() {
     }
 
+    //重载：方法名相同，形参列表不同
     public Students(String name, int age, char sex) {
         //this(...)  1调用兄弟构造方法 2必须放在第一行
         //this(...)和super(...)不能同时出现
