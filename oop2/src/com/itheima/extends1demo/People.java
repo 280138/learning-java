@@ -4,6 +4,7 @@ public class People {
     private String name;
     private char sex;
 
+    //-------------------下面的全部都可以被继承
     //用共有方法设置私有变量
     public String getName() {
         return name;

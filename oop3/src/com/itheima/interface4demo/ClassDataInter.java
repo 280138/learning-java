@@ -1,4 +1,4 @@
-package com.itheima.interfacedemo;
+package com.itheima.interface4demo;
 
 public interface ClassDataInter {
     void printAllStudentInfos();

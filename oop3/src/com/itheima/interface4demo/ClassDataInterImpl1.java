@@ -1,4 +1,4 @@
-package com.itheima.interfacedemo;
+package com.itheima.interface4demo;
 
 public class ClassDataInterImpl1 implements ClassDataInter{
     //实现类1

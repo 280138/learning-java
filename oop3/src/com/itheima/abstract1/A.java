@@ -8,10 +8,10 @@ public  abstract class A {  //抽象类：abstract修饰类
 
     //2、抽象方法：1用abstract修饰，2没有方法体
     public abstract void show();
-
     public void show2(){
         System.out.println("show2方法");
     }
+
     public A() {
         System.out.println("无参构造方法");
     }

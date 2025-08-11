@@ -4,6 +4,8 @@ public class TestStar {
     public static void main(String[] args) {
         //创建对象
         //语法：类名 对象名 = new 类名();
+//创建对象时 TV tv = new TV("小米电视",true)
+// 左半边是定义一个TV类型名叫tv的变量来接收，右半边是创建对象
         Star s1 = new Star();
         s1.name = "王祖贤";
         s1.age = 30;

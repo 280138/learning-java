@@ -1,4 +1,4 @@
-package com.itheima.interfacedemo;
+package com.itheima.interface4demo;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

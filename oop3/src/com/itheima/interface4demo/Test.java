@@ -1,4 +1,4 @@
-package com.itheima.interfacedemo;
+package com.itheima.interface4demo;
 
 public class Test {
     public static void main(String[] args) {

@@ -16,6 +16,7 @@ class Zi extends Fu{
     }
 }
 class Fu{
+    //构造器没有返回值，属于类本身，不能被继承
     public Fu(){
         System.out.println("父类无参构造方法");
     }
