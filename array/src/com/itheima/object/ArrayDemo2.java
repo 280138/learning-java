@@ -10,7 +10,7 @@ public class ArrayDemo2 {
     public static void inputScore(){
         Scanner sc = new Scanner(System.in);
 
-        //动态初始化数组
+        //   动态初始化数组
         //数据类型[] 数组名 = new 数据类型[数组的长度]
         double[] grades = new double[5];
         for (int i=0;i<grades.length;i++){
