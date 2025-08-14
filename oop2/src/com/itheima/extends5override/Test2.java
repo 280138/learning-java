@@ -8,8 +8,9 @@ public class Test2 {
         s.setName("张三");
         s.setAge(18);
         s.setSex('男');
-//        System.out.println(s.toString());返回s的地址，没有意义
-        System.out.println(s);
+        //的toString()方法只返回对象的类名和哈希码（如com.itheima.extends5override.Student@1b6d3586）
+        System.out.println(s);//省略toString(),返回地址com.itheima.extends5override.Student@1b6d3586
+        System.out.println(s.toString());
     }
 }
 

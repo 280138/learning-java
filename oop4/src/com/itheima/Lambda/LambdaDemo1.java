@@ -2,7 +2,6 @@ package com.itheima.Lambda;
 
 public class LambdaDemo1 {
     public static void main(String[] args) {
-        //Lambda表达式 作用:替代匿名内部类（创建对象）
         Animal a = new Animal() {
             @Override
             public void cry(){
@@ -10,12 +9,13 @@ public class LambdaDemo1 {
             }
         };
         a.cry();
+        //Lambda表达式 作用:替代匿名内部类 创建对象
         //错误示范：Lambda并不可以替代全部的匿名内部类
         //        Lambda只能替代函数式接口的匿名内部类
         //函数式接口：有且仅有一个抽象方法的接口
 //        Animal a1 = () -> {
 //            System.out.println("小猫喵喵喵");
-//        };
+//        };  //报错
 //        a1.cry();
         System.out.println("======================================");
 /*        Swim s1 = new Swim() {
