@@ -25,7 +25,9 @@ class People{
             int heartBeat = 200;
             System.out.println(heartBeat);//200
             System.out.println(this.heartBeat);//80
-            System.out.println(People.this.heartBeat);//100
+            System.out.println(People.this.heartBeat);//100，
+            //在内部类（如嵌套类、匿名类）中，this默认指向内部类的实例。
+            // 如果需要访问外部类的成员，需使用外部类名.this
         }
     }
 }

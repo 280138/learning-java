@@ -3,9 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/array/array.iml" filepath="$PROJECT_DIR$/array/array.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day01-helloworld-app/day01-helloworld-app.iml" filepath="$PROJECT_DIR$/day01-helloworld-app/day01-helloworld-app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day02-basic/day02-basic.iml" filepath="$PROJECT_DIR$/day02-basic/day02-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic/basic.iml" filepath="$PROJECT_DIR$/basic/basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/helloworld-app/helloworld-app.iml" filepath="$PROJECT_DIR$/helloworld-app/helloworld-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaseaiproject.iml" filepath="$PROJECT_DIR$/javaseaiproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jiachen-employee-sys/jiachen-employee-sys.iml" filepath="$PROJECT_DIR$/jiachen-employee-sys/jiachen-employee-sys.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop/oop.iml" filepath="$PROJECT_DIR$/oop/oop.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop2/oop2.iml" filepath="$PROJECT_DIR$/oop2/oop2.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop3/oop3.iml" filepath="$PROJECT_DIR$/oop3/oop3.iml" />

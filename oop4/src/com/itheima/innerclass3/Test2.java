@@ -33,7 +33,8 @@ public class Test2 {
     //用方法来实现多态
     public static void start(Swim s){//方法括号中传进来一个对象
         System.out.println("开始。。。");
-        s.swimming();//对象回调
+        //对象回调
+        s.swimming();
         System.out.println("结束。。。");
     }
 }

@@ -3,6 +3,7 @@ package com.itheima.extends7this;
 public class Test {
     public static void main(String[] args) {
         //理解this(...)  1调兄弟构造方法 2必须在构造器的第一行
+        //this 还表示 当前类的对象
         Students s1 = new Students("张三", 18, '男', "传智播客");
         System.out.println(s1.toString());
         Students s2 = new Students("王五", 22, '女');

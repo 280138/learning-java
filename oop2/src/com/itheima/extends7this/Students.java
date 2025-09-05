@@ -13,6 +13,7 @@ public class Students {
     public Students(String name, int age, char sex) {
         //this(...)  1调用兄弟构造方法 2必须放在第一行
         //this(...)和super(...)不能同时出现
+        //this 还表示 当前类的对象
         this(name,age,sex,"黑马程序");
     }
 

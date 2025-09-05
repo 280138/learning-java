@@ -24,7 +24,6 @@ public class LambdaDemo2 {
         students[4] = new Student("小孙", 19, 180, '女');
         students[5] = new Student("小周", 17, 160, '女');
 
-        //需求：按照年龄升序排序，调用sun公司写好的API直接对数组进行排序
 //        Arrays.sort(students, new Comparator<Student>() {
 //            @Override
 //            public int compare(Student o1, Student o2) {
@@ -32,14 +31,12 @@ public class LambdaDemo2 {
 //            }
 //        });
 //        Arrays.sort(students, (Student o1, Student o2) ->{
-//            return o1.getAge() - o2.getAge();//按照年龄升序
+//            return o1.getAge() - o2.getAge();
 //        });
 //        Arrays.sort(students, ( o1,  o2) ->{
-//            return o1.getAge() - o2.getAge();//按照年龄升序
+//            return o1.getAge() - o2.getAge();
 //        });
-        Arrays.sort(students, ( o1,  o2) -> o1.getAge() - o2.getAge()//按照年龄升序
-        );
-
+        Arrays.sort(students, ( o1,  o2) -> o1.getAge() - o2.getAge());
 
         //遍历数组中的学生对象
         for (int i = 0; i < students.length; i++) {
@@ -80,8 +77,7 @@ public class LambdaDemo2 {
 //        btn.addActionListener(e -> {
 //            System.out.println("点击了登录按钮");
 //        });
-        btn.addActionListener(e -> System.out.println("点击了登录按钮")
-        );
+        btn.addActionListener(e -> System.out.println("点击了登录按钮"));
 
         win.setVisible(true);//桌子显示出来
     }

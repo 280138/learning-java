@@ -1,4 +1,4 @@
-package com.itheima.object.Operator;
+package com.itheima.object.operator;
 
 public class OperatorDemo2 {
     public static void main(String[] args) {

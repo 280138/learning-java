@@ -1,6 +1,7 @@
 package com.itheima.method1reference;
 
 import java.util.Arrays;
+import java.util.Comparator;
 
 public class Demo2 {
     public static void main(String[] args) {
@@ -17,9 +18,19 @@ public class Demo2 {
         students[5] = new Student("小周", 17, 160, '女');
 
         //需求：按照年龄升序排序，调用sun公司写好的API直接对数组进行排序
-        //如果Lambda表达式里只是通过对象名称调用一个实例方法，并且“->”前后参数一致，可以用实例方法应用
-        //实例方法引用    类名::实例方法
         Student t = new Student();
+
+//        Arrays.sort(students, new Comparator<Student>() {
+//            @Override
+//            public int compare(Student o1, Student o2) {
+//                return t.compareByHeight(o1, o2);
+//            }
+//        });
+
+//        Arrays.sort(students, ((o1, o2) -> t.compareByHeight(o1,o2)));
+
+//        “->”前后参数一致，可以用实例方法应用
+//        实例方法引用    对象名::实例方法
         Arrays.sort(students, t::compareByHeight);
 
 
