@@ -1,0 +1,257 @@
+[33mcommit db28d90186a3ad9786e1413661e8eaa68c40c896[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Cc <2801387084@qq.com>
+Date:   Sat Sep 13 10:37:50 2025 +0800
+
+    测试
+
+[33mcommit bcd0dac60ce07b15d9ac2faa1b5b6ad546b04b93[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Cc <2801387084@qq.com>
+Date:   Fri Sep 5 11:58:10 2025 +0800
+
+    end
+
+[33mcommit abdf8e3041dcc50f165c8135ec65d1fe5f4fac06[m
+Author: Cc <2801387084@qq.com>
+Date:   Thu Aug 14 22:13:46 2025 +0800
+
+    ArrayList
+
+[33mcommit bc85ae963a48e8cb822e22494d370e933ab6d48d[m
+Author: Cc <2801387084@qq.com>
+Date:   Wed Aug 13 23:40:34 2025 +0800
+
+    LambdaDemo
+
+[33mcommit 0005b9a54eacc71ce3afa1961892d14930025edb[m
+Author: Cc <2801387084@qq.com>
+Date:   Mon Aug 11 21:51:55 2025 +0800
+
+    InterfaceDemo2jiaju
+
+[33mcommit 30bc51ac68351c74d33b7bc1c6037fcc67b7a0ff[m
+Author: Cc <2801387084@qq.com>
+Date:   Mon Aug 11 14:38:02 2025 +0800
+
+    InterfaceDemo
+
+[33mcommit 4d3b53e3af27b1e53d75a67a747d0a2253b9485b[m
+Author: Cc <2801387084@qq.com>
+Date:   Sat Aug 9 18:07:31 2025 +0800
+
+    enumdemo
+
+[33mcommit 16ba33ec578c5ad84c4999331d4dc553c8510f18[m
+Author: Cc <2801387084@qq.com>
+Date:   Fri Aug 8 15:59:53 2025 +0800
+
+    polymorphsmDemo
+
+[33mcommit 09300b5f8d23092b14067df4c7a2dff19d12c147[m
+Author: Cc <2801387084@qq.com>
+Date:   Fri Aug 8 01:20:13 2025 +0800
+
+    A
+
+[33mcommit 8782650050d313c6839e2a0343b15a87c500e45a[m
+Author: Cc <2801387084@qq.com>
+Date:   Thu Aug 7 23:01:21 2025 +0800
+
+    polymorphsm3
+
+[33mcommit e26572413c32b8cb6cf99840b02a2d8c126f688b[m
+Author: Cc <2801387084@qq.com>
+Date:   Wed Aug 6 23:39:51 2025 +0800
+
+    Extends6this
+
+[33mcommit 1ee9c0dee849117a1c30423af7e310c43735300d[m
+Author: Cc <2801387084@qq.com>
+Date:   Wed Aug 6 21:51:39 2025 +0800
+
+    Extends6Constructor
+
+[33mcommit 5fe0cd2346aa5b60236b6d7136af0ff538d580fe[m
+Author: Cc <2801387084@qq.com>
+Date:   Wed Aug 6 17:35:28 2025 +0800
+
+    @Override---ToString
+
+[33mcommit cb27320c64e28c74c140670367bcc828810799de[m
+Author: Cc <2801387084@qq.com>
+Date:   Wed Aug 6 17:10:29 2025 +0800
+
+    Extends5Demo
+
+[33mcommit fb6ebaf4b326c0303ae726a492c999906cc2afe2[m
+Author: Cc <2801387084@qq.com>
+Date:   Tue Aug 5 20:05:11 2025 +0800
+
+    MovieDemo
+
+[33mcommit 69b75984708efe9e631c66204ce1706bd33bfe86[m
+Author: Cc <2801387084@qq.com>
+Date:   Tue Aug 5 18:09:45 2025 +0800
+
+    MovieDemo
+
+[33mcommit 68d2b370d1ebb4549d6d68ea0a6fda70b4a58be1[m
+Author: Cc <2801387084@qq.com>
+Date:   Mon Aug 4 20:37:38 2025 +0800
+
+    javabean
+
+[33mcommit f0fc785fad4f750d9b0700b3511e3d50046c2c8c[m
+Author: Cc <2801387084@qq.com>
+Date:   Mon Aug 4 11:01:49 2025 +0800
+
+    constructor and thisdemo
+
+[33mcommit 1a4ec6d420ff0d81c30b0ace812f5ca8a683aaec[m
+Author: Cc <2801387084@qq.com>
+Date:   Sun Aug 3 17:51:24 2025 +0800
+
+    ArrayDemo4
+
+[33mcommit 2a8eda71233d409791d88d08ea3a6cb8c35b7490[m
+Author: Cc <2801387084@qq.com>
+Date:   Sun Aug 3 16:34:50 2025 +0800
+
+    ArrayDemo1
+
+[33mcommit f1853673a038552d8f09d367fba43ce8b842460c[m
+Author: Cc <2801387084@qq.com>
+Date:   Sun Aug 3 15:51:56 2025 +0800
+
+    operator4
+
+[33mcommit 38d4d1f1ecad1b34347444aaeb5b3a22e7562018[m
+Author: Cc <2801387084@qq.com>
+Date:   Fri Aug 1 23:06:34 2025 +0800
+
+    operator4
+
+[33mcommit c5a61a9d39dc26a4bfc720a27811349ef0b0ebcf[m
+Author: Cc <2801387084@qq.com>
+Date:   Fri Aug 1 20:49:42 2025 +0800
+
+    operator4
+
+[33mcommit 3a8f871281b1bfa03bfef5ea03e4aa27a8275b9f[m
+Author: Cc <2801387084@qq.com>
+Date:   Fri Aug 1 20:49:06 2025 +0800
+
+    operator4
+
+[33mcommit feb48f373eeb2059ea0f6c8495d3cca4ab581f24[m
+Author: Cc <2801387084@qq.com>
+Date:   Fri Aug 1 14:51:50 2025 +0800
+
+    operator
+
+[33mcommit ffb285e0762944c422433d6e13c352ab36daab70[m
+Author: Cc <2801387084@qq.com>
+Date:   Fri Aug 1 14:50:20 2025 +0800
+
+    Scanner and TypeDemo2
+
+[33mcommit e69d92d8154a7471399b446da76c37357e0f8627[m
+Author: Cc <2801387084@qq.com>
+Date:   Fri Aug 1 14:22:03 2025 +0800
+
+    Scanner and TypeDemo2
+
+[33mcommit 89209378fb2d2d4dab68b5d93b20d81689a36a20[m
+Author: Cc <2801387084@qq.com>
+Date:   Fri Aug 1 14:20:48 2025 +0800
+
+    Scanner and TypeDemo2
+
+[33mcommit 6710bd4da7cb0646a4b299c2e5bb790c676003fe[m
+Author: Cc <2801387084@qq.com>
+Date:   Thu Jul 31 16:56:41 2025 +0800
+
+    TypeDemo1
+
+[33mcommit b7e6ff4f7213ec60bdd250778d1477fb8603dda5[m
+Author: Cc <2801387084@qq.com>
+Date:   Thu Jul 31 16:50:54 2025 +0800
+
+    TypeDemo1
+
+[33mcommit c9e5179ff4e17f54c449b82c7a777a03812af30c[m
+Author: Cc <2801387084@qq.com>
+Date:   Thu Jul 31 11:10:17 2025 +0800
+
+    MethodDemo1
+
+[33mcommit 293b9bcf6eaee4180490584373de0f306cb44f1d[m
+Author: Cc <2801387084@qq.com>
+Date:   Thu Jul 31 11:09:40 2025 +0800
+
+    VariableDemo2
+
+[33mcommit 56098ee00df8b0dc114f36bd718716bfe7bc4ec5[m
+Author: Cc <2801387084@qq.com>
+Date:   Wed Jul 30 16:10:23 2025 +0800
+
+    VariableDemo2
+
+[33mcommit 098095276e557e36c0ea1e5268de5a4b36f2c149[m
+Author: Cc <2801387084@qq.com>
+Date:   Tue Jul 29 11:01:03 2025 +0800
+
+    VariableDemo1
+
+[33mcommit ca910bd8d4c45c821013839154201e2424db7302[m
+Author: Cc <2801387084@qq.com>
+Date:   Tue Jul 29 10:56:04 2025 +0800
+
+    VariableDemo1
+
+[33mcommit d81b734735afd9da4bb56282d3adefc03509a0c6[m
+Author: Cc <2801387084@qq.com>
+Date:   Tue Jul 29 09:26:51 2025 +0800
+
+    literal
+
+[33mcommit fa0a9742cc3e3539623fe8e783001d7d83c92a12[m
+Author: Cc <2801387084@qq.com>
+Date:   Mon Jul 28 19:17:11 2025 +0800
+
+    literal
+
+[33mcommit 10cb092e04baac6697b3a4f38b765b10601c0af9[m
+Author: Cc <2801387084@qq.com>
+Date:   Mon Jul 28 19:01:27 2025 +0800
+
+    literal
+
+[33mcommit 0689ca8e82e57d2fb5e616b1a9efe18b0d6ecdef[m
+Author: Cc <2801387084@qq.com>
+Date:   Mon Jul 28 18:59:06 2025 +0800
+
+    literal
+
+[33mcommit 414a680fe52ead3ec0a1ea148de57d854aa52bb6[m
+Author: Cc <2801387084@qq.com>
+Date:   Sun Jul 27 20:09:33 2025 +0800
+
+    222
+
+[33mcommit b303d94138379ad9f9be82e060b8a854520ab46e[m
+Author: Cc <2801387084@qq.com>
+Date:   Sun Jul 27 17:20:48 2025 +0800
+
+    111
+
+[33mcommit 8ce0a951c0e9174d0062d57b2df80825119277b9[m
+Author: Cc <2801387084@qq.com>
+Date:   Sat Jul 26 23:54:56 2025 +0800
+
+    init
+
+[33mcommit f03823514dde8f172c2085617438e1f3f35e49dd[m
+Author: Cc <2801387084@qq.com>
+Date:   Sun Jul 27 16:50:48 2025 +0800
+
+    Initial commit
